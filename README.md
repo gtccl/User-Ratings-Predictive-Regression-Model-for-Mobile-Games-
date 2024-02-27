@@ -102,7 +102,7 @@ Mobile game ratings are important to developers and companies for several reason
 * Games with higher ratings are more likely to stand out from competitors. These ratings also contribute to the overall reputation of the developer.
 * Higher-rated games are generally more successful in monetising their user base. Satisfied players are more likely to make in-app purchases leading to higher revenue generation.
 
-In order to have a prediction for a mobile app's rating for strategy games, our top 5 most important features include the Current Version Year, Original Year, the User Rating Count and various Secondary Genre options.
+##### In order to have a prediction for a mobile app's rating for strategy games, our top 5 most important features include the Current Version Year, Original Year, the User Rating Count and various Secondary Genre options.
 
 This proposed prediction model for User Ratings will provide companies with practical recommendations and the probability of successful development of mobile games.
 Knowing the priority features helps the developer understand the user's needs and trends which helps them then develop a successful application based on these needs and the potential to predict their app rating based on an assumption of Price, Age Rating, Genres and other features.
